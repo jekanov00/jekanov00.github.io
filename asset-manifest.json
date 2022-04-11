@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fad458d.css",
+    "main.js": "/static/js/main.a67bf070.js",
+    "static/js/787.fe8b5ce1.chunk.js": "/static/js/787.fe8b5ce1.chunk.js",
+    "static/media/waterfall.jpg": "/static/media/waterfall.267c2e599842f67dab7d.jpg",
+    "static/media/cove.jpg": "/static/media/cove.38b0538bf815b529ed9d.jpg",
+    "static/media/stairs.jpg": "/static/media/stairs.4e0f2e1bad9386816459.jpg",
+    "index.html": "/index.html",
+    "main.6fad458d.css.map": "/static/css/main.6fad458d.css.map",
+    "main.a67bf070.js.map": "/static/js/main.a67bf070.js.map",
+    "787.fe8b5ce1.chunk.js.map": "/static/js/787.fe8b5ce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fad458d.css",
+    "static/js/main.a67bf070.js"
+  ]
+}
